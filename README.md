@@ -1,1 +1,1 @@
-# Linkl-r-v-ke-idl-r
+# Linklər və keçidlər
