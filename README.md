@@ -105,34 +105,4 @@
         <a class="btn telegram" href="https://t.me/PH_Qanunvericiliik" target="_blank">Qanunvericilik Telegram Qrupumuz</a>
         
         <div class="section-title">İnformatika</div>
-        <a class="btn telegram" href="https://t.me/infoPHJ" target="_blank">İnformatika Telegram Qrupumuz</a>
         
-        <div class="section-title">Müsahibə</div>
-        <a class="btn whatsapp" href="https://chat.whatsapp.com/GvlZG96GrSk7D2YWlXgp6t?s=cl&p=a&mlu=4" target="_blank">Müsahibə WhatsApp Qrupumuz</a>
-        <a class="btn telegram" href="https://t.me/ph_musahibe" target="_blank">Müsahibə Telegram Qrupumuz</a>
-        
-        <div class="section-title">Azərbaycan Dili</div>
-        <a class="btn telegram" href="https://t.me/azerbaycan_dili_PH" target="_blank">Azərbaycan Dili Telegram Qrupu</a>
-
-        <div class="section-title">📚 Qanunvericilik Vəsaitləri</div>
-
-<p class="subtitle" style="font-size:13px;text-align:left;margin-bottom:15px;">
-Aşağıdakı vəsaitlərdə <b>2026-cı il üzrə bu günədək qüvvəyə minmiş bütün əlavə və dəyişikliklər nəzərə alınmışdır.</b><br>
-<b>Ən son yenilənmiş versiyadır.</b>
-</p>
-
-<a class="btn telegram" href="Panah Hüseynov (Qanun-AC)-01 avqust 2026-1.pdf" target="_blank">📄 AC</a>
-
-<a href="Pənah Hüseynov (Vəsait-BB, BA) - 01 avqust 2026.pdf" target="_blank">📄 Pənah Hüseynov (Vəsait-BB, BA)</a>
-
-<a class="btn telegram" href="Panah Hüseynov (Kateqoriyalar 01 avqust 2026)-1.pdf" target="_blank">📄 DQ (Kateqoriya)</a>
-
-<a class="btn telegram" href="Panah_Hüseynov_Təsnifatların_tapılması_01_avqust_2026.pdf" target="_blank">📄 DQ (Təsnifat)</a>
-
-<a class="btn telegram" href="Panah Hüseynov (İxtisas dərəcələri 2026) (2).pdf" target="_blank">📄 DQ (İxtisas dərəcəsi)</a>
-        <div class="section-title">Sosial Şəbəkə</div>
-        <a class="btn instagram" href="https://www.instagram.com/dovletqulluguqanunvericilik?utm_source=qr&igsh=MXVldWV0OTIyaXp5eQ==" target="_blank">Instagram Hesabımız</a>
-    </div>
-
-</body>
-</html>
