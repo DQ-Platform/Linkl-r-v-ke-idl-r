@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Dövlət Qulluğu Linkləri</title>
 <style>
-body{font-family:Arial; margin:0; padding:20px; text-align:center; background-image: url('logo.png'); background-size: contain; background-position: center; background-repeat: no-repeat; background-attachment: fixed; background-color: #111; min-height: 100vh;}
+body{font-family:Arial; margin:0; padding:20px; text-align:center; background-image: url('IMG-20260722-WA0073.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; background-attachment: fixed; background-color: #111; min-height: 100vh;}
 .container{background: rgba(0,0,0,0.75); padding: 30px 20px; border-radius: 20px; max-width: 550px; margin: 30px auto;}
 h1{color:#fff; margin-bottom:10px; font-size:24px}
 h2{color:#ddd; margin:25px 0 15px; font-size:18px; border-bottom:1px solid #444; padding-bottom:8px}
